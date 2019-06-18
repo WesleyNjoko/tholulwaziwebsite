@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+google-site-verification: google130411e25da5e6de.html
 <title>tholulwazi international website</title>
 <meta http-equiv="Content-Type" "content=text/html; charset=UTF-8">
 
